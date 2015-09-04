@@ -1,0 +1,5 @@
+c:\users\rupak\it-training\programming\BasicLang\BasicLang\bin\Debug\BasicLang.exe
+c:\users\rupak\it-training\programming\BasicLang\BasicLang\bin\Debug\BasicLang.pdb
+c:\users\rupak\it-training\programming\BasicLang\BasicLang\obj\Debug\BasicLang.csprojResolveAssemblyReference.cache
+c:\users\rupak\it-training\programming\BasicLang\BasicLang\obj\Debug\BasicLang.exe
+c:\users\rupak\it-training\programming\BasicLang\BasicLang\obj\Debug\BasicLang.pdb

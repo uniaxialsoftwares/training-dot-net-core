@@ -1,0 +1,10 @@
+C:\Users\rupak\it-training\Grp-2\LanguageTest\BasicLang\bin\Debug\BasicLang.exe
+C:\Users\rupak\it-training\Grp-2\LanguageTest\BasicLang\bin\Debug\BasicLang.pdb
+C:\Users\rupak\it-training\Grp-2\LanguageTest\BasicLang\obj\Debug\BasicLang.csprojResolveAssemblyReference.cache
+C:\Users\rupak\it-training\Grp-2\LanguageTest\BasicLang\obj\Debug\BasicLang.exe
+C:\Users\rupak\it-training\Grp-2\LanguageTest\BasicLang\obj\Debug\BasicLang.pdb
+C:\Users\rupak\it-training\Grp-2\LanguageTest -Day5\BasicLang\obj\Debug\BasicLang.exe
+C:\Users\rupak\it-training\Grp-2\LanguageTest -Day5\BasicLang\obj\Debug\BasicLang.pdb
+C:\Users\rupak\it-training\Grp-2\LanguageTest -Day5\BasicLang\bin\Debug\BasicLang.exe
+C:\Users\rupak\it-training\Grp-2\LanguageTest -Day5\BasicLang\bin\Debug\BasicLang.pdb
+C:\Users\rupak\it-training\Grp-2\LanguageTest -Day5\BasicLang\obj\Debug\BasicLang.csprojResolveAssemblyReference.cache
