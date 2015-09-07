@@ -9,7 +9,7 @@
 	* Variables
 
 ## Day 3
-	* Control Statemnets
+	* Control Statements
 	* if - else if - else
 	* Loop
 
@@ -23,6 +23,4 @@
 
 ## Day 6
 	* Class and Object - Functions
-	* Class and Object - Constructors 
-
-
+	* Class and Object - Constructors
