@@ -22,7 +22,21 @@
 	* Defining the Function
 
 ## Day 6
-	* Class and Object - Functions
-	* Class and Object - Constructors 
+	* Class and Object - Functions (Simple and Parameterized)
+	* Class and Object - Constructors
 
+## Day 7
+	* Functions(Parameterized with Return Types)
+	* Overloading Functions
+	* DateTime Class and methods (Add, Subtract, ToString etc.)
+	* String class and Methods( Substring, Split, Replace, IndexOf etc.)
+	* Working with foreach Loop
 
+```
+string name = "abc xyz mno";
+string[] names = name.Split(' ');
+foreach (var item in names)
+{
+	Console.WriteLine(item);
+}
+```

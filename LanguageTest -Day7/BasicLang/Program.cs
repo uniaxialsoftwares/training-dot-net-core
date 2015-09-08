@@ -6,13 +6,13 @@ namespace BasicLang
     {
         static void Main(string[] args)
         {
-            /* Day 1: 
-             * 
+            /* Day 1:
+             *
             // SIngle line comment
             ///*
-            // * I am a multiline 
+            // * I am a multiline
             // * comment
-             // * 
+             // *
 
             //variable : type name
 
@@ -134,7 +134,7 @@ namespace BasicLang
 
             // while
             // int num;
-            
+
             string option = "";
 
             do
@@ -200,7 +200,7 @@ namespace BasicLang
             //electroMax.height = 12;
             //electroMax.speed = 1232;
             ////electroMax.costPrice = 299;
-            
+
             //// accessing data
             //int wings = electroMax.noOfWings;
             //float speed = electroMax.speed;
@@ -219,7 +219,7 @@ namespace BasicLang
             objFan1.SwitchOn();
             objFan1.SpeedChange(-100);
             objFan1.SpeedDown();
-                objFan1.SpeedUp(); 
+                objFan1.SpeedUp();
             objFan1.SpeedDown();
             Console.WriteLine("The State of objFan1 is:+" + objFan1.IsRunning + " and Current Speed is :"+ objFan1.CurrentSpeed);
 
@@ -235,7 +235,7 @@ namespace BasicLang
 
             string details = fan.GetDeatils(1);
 
-            string name = "rupak raj ghimire";
+            string name = "abc xyz mno";
             Console.WriteLine(name.ToUpper());
             //string name_replaced = name.Replace('r', 'R');
             //
